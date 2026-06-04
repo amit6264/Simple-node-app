@@ -1,0 +1,13 @@
+{
+  "name": "node-cicd-app",
+  "version": "1.0.0",
+  "description": "Simple Node CI/CD",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"No Tests\""
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
